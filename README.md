@@ -1,4 +1,4 @@
-##API de Reservas de Habitaciones de Hotel##
+API de Reservas de Habitaciones de Hotel
 Crea una API REST para gestionar las reservas de habitaciones en un hotel. Cada habitación tiene un número, tipo (sencilla, doble, suite), y un precio por noche. Los clientes pueden buscar habitaciones disponibles y hacer reservas. Los administradores del hotel pueden añadir, editar o eliminar habitaciones.
 Requisitos adicionales:
 Los clientes no pueden reservar una habitación para una fecha pasada.
