@@ -1,0 +1,6 @@
+@Api_Hotel_TP_FINAL_HostAddress = http://localhost:5057
+
+GET {{Api_Hotel_TP_FINAL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
